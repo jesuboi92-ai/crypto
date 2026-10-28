@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+positions.json
+positions.tmp
+__pycache__/
+*.py[cod]
